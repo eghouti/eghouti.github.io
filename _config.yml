@@ -7,6 +7,7 @@ navigation:
   Homes: "/"
   Call for Papeers: "/cfp"
   Organisers: "/organisers"
+  Speakers: "/speakers"
 
 markdown: kramdown
 
