@@ -6,7 +6,7 @@ description: Workshop at ICLR 2021
 navigation:
   Homes: "/"
   Call for Papeers: "/cfp"
-  Organisers: "/organisers.md"
+  Organisers: "/organisers"
 
 markdown: kramdown
 
