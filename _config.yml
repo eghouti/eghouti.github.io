@@ -1,0 +1,17 @@
+
+theme: jekyll-theme-cayman
+title: Hadware Aware Efficent Training
+description: Workshop at ICLR 2021
+
+navigation:
+  Homes: "/"
+  Call for Papeers: "/cfp"
+  Organisers: "/organisers.md"
+
+markdown: kramdown
+
+kramdown:
+  parse_span_html: true
+  parse_block_html: true
+
+
