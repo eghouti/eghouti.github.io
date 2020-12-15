@@ -7,3 +7,6 @@ To reach top-tier performance, deep learning architectures usually rely on a lar
 Indeed, training complexity is of interest to many distinct communities. A first example is training on edge devices, where training can be used to specialize to data obtained online when the data cannot be transmitted back to the cloud because of constraints on privacy or communication bandwidth. Another example is accelerating training on dedicated hardware such as GPUs or TPUs.
 
 
+## Our Sponsors
+
+|<img src="/logo_pictures/huawei.png" alt="" width="190"/>|<img src="/logo_pictures/deeplite.png" alt="" width="280"/>|<img src="/logo_pictures/intel.png" alt="" width="225"/>||<img src="/logo_pictures/nvidia.png" alt="" width="190"/>|
