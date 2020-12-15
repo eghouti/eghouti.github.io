@@ -8,6 +8,7 @@ navigation:
   Call for Papeers: "/cfp"
   Organisers: "/organisers"
   Speakers: "/speakers"
+  Schedule: "/schedule"
 
 markdown: kramdown
 
