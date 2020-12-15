@@ -9,4 +9,4 @@ Indeed, training complexity is of interest to many distinct communities. A first
 
 ## Our Sponsors
 
-|<img src="/logo_pictures/huawei.png" alt="" width="190"/>|<img src="/logo_pictures/deeplite.png" alt="" width="280"/>|<img src="/logo_pictures/intel.png" alt="" width="225"/>||<img src="/logo_pictures/nvidia.png" alt="" width="190"/>|
+|<img src="/logo_pictures/huawei.png" alt="" width="190"/>||<img src="/logo_pictures/deeplite.png" alt="" width="280"/>||<img src="/logo_pictures/intel.png" alt="" width="225"/>||<img src="/logo_pictures/nvidia.png" alt="" width="190"/>|
