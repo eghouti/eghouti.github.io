@@ -1,6 +1,6 @@
 ## Overview
 
-The workshop will take place on Saturday May 8, 2021. Due to the pandemic, the workshop will be ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) **`VIRTUAL`**. More details about the virtual aspect will be provided soon.
+The workshop will take place on Saturday May 8, 2021. Due to the pandemic, the workshop will be ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+**VIRTUAL**). More details about the virtual aspect will be provided soon.
 
 ## Aim of the Workshop
 
