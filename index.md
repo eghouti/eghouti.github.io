@@ -1,4 +1,4 @@
-## Home
+
 
 The workshop will take place on Saturday May 8, 2021. Due to the pandemic, the workshop will be **virtual**. More details about the virtual aspect will be provided soon.
 
