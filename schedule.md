@@ -7,9 +7,7 @@ Please note that all provided slots are in Greenwich Mean Time+2 (GMT+2), and us
 
 | **Time (GMT+2)**                                          | **Event**                   |
 | <span style="font-family: monospace;">08:45 09:00</span> | Opening welcome speech:  introducing the aims of the workshop, and briefly introducing the speakers.|
-| <span style="font-family: monospace;">09:00 09:30</span> | Keynote 1:[Warren Gross](/speakers#warren-gross). 
-
-title|
+| <span style="font-family: monospace;">09:00 09:30</span> | Keynote 1:[Warren Gross](/speakers#warren-gross).  \ title|
 | <span style="font-family: monospace;">09:30 10:00</span>  | Keynote 2: [Julie Grollier](/speakers#julie-grollier). title|
 | <span style="font-family: monospace;">10:00 10:30</span> | Keynote 3: [Ehsan Saboori](/speakers#ehsan-saboori).|
 | <span style="font-family: monospace;">10:30 11:30</span> | Poster session.|
