@@ -1,3 +1,7 @@
+## Virtual Only
+
+Due to the pandemic, the workshop will be virtual. More details about the virtual aspect will be provided soon.
+
 ## Aim of the Workshop
 
 To reach top-tier performance, deep learning architectures usually rely on a large number of parameters and operations, and thus require to be processed using considerable power and memory. Numerous works have proposed to tackle this problem using quantization of parameters, pruning, clustering of parameters, decompositions of convolutions or using distillation. However, most of these works aim at accelerating **only** the inference process and disregard the training phase. In practice, however, it is the learning phase that is by far the most complex. There has been recent efforts in introducing some compression on training process, however it remains challenging.
